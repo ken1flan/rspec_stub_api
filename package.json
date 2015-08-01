@@ -1,0 +1,17 @@
+{
+  "name": "rspec_stub_api",
+  "version": "1.0.0",
+  "description": "stub api sample of rails / rspec / webmock",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "phantomjs": "~1.9.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
